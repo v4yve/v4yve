@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @v4yve
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in PHP, JPHP, C++, Python2, Python3, HTML, CSS
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-v4yve/v4yve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me v4yve@gmail.com
