@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @v4yve
-- 👀 I’m interested in PHP, JPHP, C++, Python2, Python3, HTML, CSS
+- 👀 I’m interested in PHP, JPHP, C++, Python2, Python3, HTML, CSS, C#
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me v4yve@gmail.com
